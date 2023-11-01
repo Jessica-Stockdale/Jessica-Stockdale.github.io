@@ -3,7 +3,7 @@ Passionate and dedicated.
 ### Education
 - Hons B.Sc | University of Toronto | Sept 2018 - June 2023
     - Double major in **Bioethics** and **Cell & Molecular Biology**
-    - Thesis: Bridges to success: How access programs create pathways to STEM education
+    - Thesis: Bridges to success: How access programs create pathways to STEM education <a href="/assets/JS-Thesis-2023.pdf" download="JS-Thesis-2023">Download Thesis Here</a>
     - Supervisors: Prof. Dewayne Stennett & Prof. Lance McCready
 
 ### Work Experience
